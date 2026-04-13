@@ -206,4 +206,4 @@ ClinicalMind/
 
 ## 📄 License
 
-MIT License — Built with ❤️ using FastAPI, LangChain, Groq, pgvector, and Streamlit.
+MIT License — Built using FastAPI, LangChain, Groq, pgvector, and Streamlit.
